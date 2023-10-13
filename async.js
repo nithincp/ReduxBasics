@@ -1,0 +1,1 @@
+export const fetchData = (name) => async() => {}
